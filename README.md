@@ -1,2 +1,3 @@
 # demo
-Thiss repository is added only for the demonstration purpose
+This repository is added only for the demonstration purpose
+To get more idea about fork-pull-merge in github.
