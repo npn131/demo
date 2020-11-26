@@ -1,2 +1,2 @@
 # demo
-Thiss repository is added only for the demonstration purpose
+This repository is added only for the demonstration purpose
