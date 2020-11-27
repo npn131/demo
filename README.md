@@ -6,3 +6,4 @@ This repository is added only for the demonstration purpose
 <br>"netra" is reversed to "arten"
 <br>"naran" is reversed to "naran"
 <br>comment on function
+ 
